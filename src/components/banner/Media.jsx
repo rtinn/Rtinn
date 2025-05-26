@@ -1,6 +1,6 @@
 import React from 'react'
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact, FaGithub } from "react-icons/fa";
-import { SiTailwindcss, SiFigma, SiNextdotjs, SiJava, SiPhp } from "react-icons/si";
+import { FaFacebookF, FaLinkedinIn, FaReact, FaGithub } from "react-icons/fa";
+import { SiTailwindcss, SiJava, SiPhp } from "react-icons/si";
 const Media = () => {
   return (
     <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
