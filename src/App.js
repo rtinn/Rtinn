@@ -16,11 +16,11 @@ function App() {
       <div className="max-w-screen-xl mx-auto">
         <Banner />
         <Features />
-        <Projects />
         <Resume />
+        <Projects />
         <Testimonial />
         <Contact />
-        <Footer />
+      
         <FooterBottom />
       </div>
     </div>
